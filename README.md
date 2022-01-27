@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Jest, Enzyme and Typescript**
 
-<!-- - 👨‍💻 All of my projects are available at [DennieCdoes](https://denniecodes.github.io/) -->
+- 👨‍💻 My personal website is available at [DennieCdoes](https://denniecodes.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
